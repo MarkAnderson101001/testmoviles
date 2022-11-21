@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/txtpregunta5"
+        app:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="88dp"
+        android:layout_marginBottom="645dp"
+        android:text="@+string/txt_valor51" />
+
+    <RadioGroup
+        android:id="@+id/RGrespuestas5"
+        android:layout_width="163dp"
+        android:layout_height="222dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="118dp"
+        android:layout_marginEnd="130dp"
+        android:layout_marginBottom="391dp">
+
+        <RadioButton
+            android:id="@+id/RBrespuesta51"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@+string/rb_opc51" />
+
+        <RadioButton
+            android:id="@+id/RBrespuesta52"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@+string/rb_opc52" />
+
+        <RadioButton
+            android:id="@+id/RBrespuesta53"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@+string/rb_opc53" />
+
+        <RadioButton
+            android:id="@+id/RBrespuesta54"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@+string/rb_opc54" />
+
+        <RadioButton
+            android:id="@+id/RBrespuesta55"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@+string/rb_opc55" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/BTNsiguiente5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/RGrespuestas5"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="165dp"
+        android:layout_marginBottom="236dp"
+        android:text="@+string/siguiente" />
+
+</RelativeLayout>

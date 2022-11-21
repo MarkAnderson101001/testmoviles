@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="txt_valor11">Cual de los siguientes es un color primario?</string>
+    <string name="rb_opc11">Morado</string>
+    <string name="rb_opc12">Rosa</string>
+    <string name="rb_opc13">Verde</string>
+    <string name="rb_opc14">Rojo</string>
+    <string name="rb_opc15">Cafe</string>
+
+    <string name="txt_valor21">cual de los siguientes es un verbo?</string>
+    <string name="rb_opc21">Patada</string>
+    <string name="rb_opc22">Correr</string>
+    <string name="rb_opc23">Jose</string>
+    <string name="rb_opc24">El</string>
+    <string name="rb_opc25">Ambiguo</string>
+
+    <string name="txt_valor31">Es un chico de cabello amarillo y puntiagudo y suele decir: "de veras"</string>
+    <string name="rb_opc31">AMLO</string>
+    <string name="rb_opc32">Victor</string>
+    <string name="rb_opc33">Hitler</string>
+    <string name="rb_opc34">Goku</string>
+    <string name="rb_opc35">Naruto</string>
+
+    <string name="txt_valor41">Cual de los siguientes es un pais?</string>
+    <string name="rb_opc41">Konoha</string>
+    <string name="rb_opc42">Lumpalandia</string>
+    <string name="rb_opc43">Mexico</string>
+    <string name="rb_opc44">El Olimpo</string>
+    <string name="rb_opc45">Castillo</string>
+
+    <string name="txt_valor51">quien es un integrante de la banda BTS</string>
+    <string name="rb_opc51">Cantinflas</string>
+    <string name="rb_opc52">Pancho Villa</string>
+    <string name="rb_opc53">Alexelcapo</string>
+    <string name="rb_opc54">Jungkook</string>
+    <string name="rb_opc55">Marcelo Ebrad</string>
+
+    <string name="siguiente">Siguiente</string>
+
+
+    <string name="eval">Evaluacion</string>
+    <string name="pr1">Pregunta 1:      </string>
+    <string name="pr2">Pregunta 2: </string>
+    <string name="pr3">Pregunta 3: </string>
+    <string name="pr4">Pregunta 4: </string>
+    <string name="pr5">Pregunta 5: </string>
+
+
+
+    <string name="correcta"> CORRECTA</string>
+    <string name="incorrecta"> INCORRECTA</string>
+    <string name="calif"> Tu calificacion: </string>
+
+    <string name="calif0">0</string>
+    <string name="calif2">2</string>
+    <string name="calif4">4</string>
+    <string name="calif6">6</string>
+    <string name="calif8">8</string>
+    <string name="calif10">10</string>
+
+</resources>
